@@ -1,0 +1,206 @@
+html,
+body {
+  font-family: Raleway, Arial, Helvetica, sans-serif;}
+  /* Media Queries*/
+
+@media screen and (max-width: 992px);
+
+/* Header */
+
+.blocha
+{
+    display: flex;
+    justify-content: flex-end;
+   }
+   .activités
+   {
+    display: flex;
+    justify-content: flex-end;
+    margin-right: 15px;
+    margin-left: 100px;
+    align-content: space-around;
+}
+.gmap
+{
+    align-items: center;
+    border: 8px solid #f2f2f2;
+    border-radius: 10px;
+    background-color: #f2f2f2 ;
+    mar
+}
+.couleurrecherche
+{
+    background-color: #0065fc;
+    color: white;
+    font-size: 1em;
+    border-radius: 10px;
+
+}
+.recherche
+{
+font-weight: bold;
+font-size: 1em;
+}
+.alignement 
+{
+  display:flex;
+  justify-content:center;
+  align-items: center;
+  
+}
+
+
+.dog
+{
+ width: 20px; ;
+}
+
+.coeur
+{
+ width: 20px;
+}
+.billet
+{
+ width: 20px;
+}
+.enfant
+{
+ width: 20px;
+}
+
+
+.L_Booki
+{
+	width: 6%;
+}
+/* Filtres */
+.filtre
+{
+    display: flex;
+    align-items: center;
+    
+
+}
+.marges
+{
+    margin-top: 50px;
+    margin-bottom: 40px;
+
+   
+}
+.marges-filtre-titre
+{
+    margin-right: 20px;
+}
+
+.filtre-icone
+{
+    border-radius: 25px;
+    width: 52px;
+    height: 52px;
+    color:  #0065FC;
+    background-color: #deebff;
+
+}
+.logoinfo
+{
+    display: flex;
+    border: 8px #F2F2F2 hidden;
+    border-radius: 40px;
+   margin-right: 10px;
+   margin-bottom: 30px;
+}
+/* Hébergement */
+
+.blocgris
+{   
+    width:750px;
+    height: 450px;
+    background-color: #f2f2f2;
+    border-radius: 15px; 
+}
+
+ 
+ h3
+ {
+
+
+ } 
+
+.titrecadre
+{
+    font-weight: bold;
+}
+
+.image-bloc
+{
+    display: flex;
+    flex-wrap: wrap;
+justify-content: space-around;
+}
+
+.detail-photo
+{
+  display: flex;
+  flex-direction: column-reverse;
+  
+}
+  
+.align-star
+{
+    display:flex;
+    align-items: flex-end
+}
+
+
+/* Les plus populaires */
+.cadre-pop
+ {
+    width:500px;
+    height: 450px;
+    background-color: #f2f2f2;
+    padding: 20px 0px 100px 0px;
+    border-radius: 15px; 
+
+ }
+ 
+ /* Section Activités */
+
+.photo-acti
+{
+    display: flex;
+    margin: 25px 0px 50px 0px;
+
+}
+
+ /* Footer */
+
+ .rectanglefooter
+ {
+    height: 100px;
+    width: 1895px;
+    background-color: #f2f2f2;
+    margin-top: 100px;
+ }
+
+    
+}
+.ap
+{
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+
+}
+.police-em1
+{
+   font-size: 0.9em; 
+}
+
+.tas
+{
+    display: flex;
+    justify-content: space-around ;
+    flex-wrap: nowrap;
+}
+
